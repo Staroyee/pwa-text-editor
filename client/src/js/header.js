@@ -1,4 +1,4 @@
-//
+// Acts as a background in the application
 const header = `
 /*
        _____  ____________
