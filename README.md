@@ -36,6 +36,13 @@ To use the app:
 3. (optional) install application onto your local machine.
 4. Exit and re-open the application to see your text data persist.
 
+## Screenshots
+### Browser
+![alt text](./assets/images/browser.JPG)
+### Installed App
+![alt text](./assets/images/app.JPG)
+
+
 ## Resources
 
 - Week 19 activities.

@@ -29,7 +29,7 @@ const pageCache = new CacheFirst({
     }),
     new ExpirationPlugin({
       maxAgeSeconds: 30 * 24 * 60 * 60, // 30 days
-    },
+    }),
   ],
 });
 // Define a CacheFirst strategy for caching pages with cache name and plugins.
