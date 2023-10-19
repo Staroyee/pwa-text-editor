@@ -18,7 +18,7 @@ Steps to install this project on your local PC
 2. Use the terminal command `cd` to navigate to the directory where you want the repository located.
 3. Locate the 'Code' button on the 'pwa-text-editor' github repository, click it, then copy the 'HTTPS' link to clipboard. (See image)
 
-![alt text](./public/images/repo.JPG)
+![alt text](./assets/images/repo.JPG)
 
 4. Use the git command `git clone` followed by the URL copied from Github to clone the repo to your machine.
 5. The `git clone` command creates a new directory with the same name as the repository. Navigate into your new directory using `cd`.

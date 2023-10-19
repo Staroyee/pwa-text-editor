@@ -1,8 +1,11 @@
-const HtmlWebpackPlugin = require('html-webpack-plugin');
-const WebpackPwaManifest = require('webpack-pwa-manifest');
-const path = require('path');
-const { InjectManifest } = require('workbox-webpack-plugin');
+// Import necessary modules for Webpack configuration.
+const HtmlWebpackPlugin = require('html-webpack-plugin'); // For generating HTML files.
+const WebpackPwaManifest = require('webpack-pwa-manifest'); // For creating a PWA manifest.
+const path = require('path'); // For handling file paths.
+const { InjectManifest } = require('workbox-webpack-plugin'); // For service worker injection.
 
+
+// Define Webpack configuration settings for your project.
 module.exports = () => {
   return {
     mode: 'development',
